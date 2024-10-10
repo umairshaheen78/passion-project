@@ -9,4 +9,4 @@ Its my passion project that I'm currently working on. Check around every few wee
 [![Use this template](https://img.shields.io/badge/Generate-Use_this_template-2ea44f?style=for-the-badge)](https://github.com/umairshaheen78/passion-project/generate)
 [![View site - GH Pages](https://img.shields.io/badge/View_site-GH_Pages-2ea44f?style=for-the-badge)](https://umairshaheen78.github.io/passion-project/)
 
-> Open this page at [https://umairshaheen78.github.io/passion-project/](https://umairshaheen78.github.io/passion-project/)
+> Open this page at [https://umairshaheen78.github.io/passion-project/](https://umairshaheen78.github.io/passion-project/index.html)
